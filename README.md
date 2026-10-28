@@ -84,6 +84,17 @@
 <tr>
 <td width="50%" valign="top">
 <p align="center">
+<a href="https://github.com/xmgbg/shuati-king"><img src="https://raw.githubusercontent.com/xmgbg/shuati-king/main/assets/logo-animated.gif" height="120" alt="刷题KING项目 Logo" /></a>
+</p>
+<h3 align="center">刷题KING · Shuati King</h3>
+<p align="center"><b>从日常练习，到考前自测。</b></p>
+<p>Windows 桌面刷题应用，围绕题库管理、题目审核、日常练习、模拟考试与错题复习组织学习流程，学习记录保存在本机。</p>
+<p><b>技术亮点：</b>四种题型与评分规则、考试暂停恢复、历史答卷回看，以及 Windows DPAPI 配置加密。</p>
+<p><code>C#</code> <code>.NET 10</code> <code>WPF</code><br /><code>XAML</code> <code>JSON</code> <code>DPAPI</code></p>
+<p><a href="https://github.com/xmgbg/shuati-king"><b>查看项目 →</b></a></p>
+</td>
+<td width="50%" valign="top">
+<p align="center">
 <a href="https://github.com/xmgbg/xiaoma-daily"><img src="https://raw.githubusercontent.com/xmgbg/xiaoma-daily/main/app/src/main/res/drawable-nodpi/launcher_art.png" height="120" alt="小马日报项目 Logo" /></a>
 </p>
 <h3 align="center">小马日报 · Xiaoma Daily</h3>
@@ -92,17 +103,6 @@
 <p><b>技术亮点：</b>Room 本地存储、后台数据读写、日期唯一约束，以及轻量的记录与阅读体验。</p>
 <p><code>Java</code> <code>Android</code> <code>Room</code><br /><code>XML Views</code> <code>SQLite</code></p>
 <p><a href="https://github.com/xmgbg/xiaoma-daily"><b>查看项目 →</b></a></p>
-</td>
-<td width="50%" valign="top">
-<p align="center">
-<a href="https://github.com/xmgbg/daikon"><img src="https://raw.githubusercontent.com/xmgbg/daikon/main/images/icons/logo.png" height="120" alt="包萝万象项目 Logo" /></a>
-</p>
-<h3 align="center">包萝万象 · Daikon</h3>
-<p align="center"><b>用轻量交互，讲好产品的故事。</b></p>
-<p>围绕农产品品牌打造的原生微信小程序，结合产品展示、产地与工艺介绍、DIY 教程和用户服务。</p>
-<p><b>技术亮点：</b>品牌视觉、产品详情、自定义导航与小程序原生交互，连接内容展示与用户体验。</p>
-<p><code>JavaScript</code> <code>WXML</code> <code>WXSS</code><br /><code>WeChat Mini Program</code></p>
-<p><a href="https://github.com/xmgbg/daikon"><b>查看项目 →</b></a></p>
 </td>
 </tr>
 </table>
